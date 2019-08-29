@@ -22,7 +22,7 @@ npm install -g @angular/cli@latest
 ````
 Clone project from github
 ````
-git clone https://github.com/spring-petclinic/spring-petclinic-angular.git
+git clone https://github.com/KristofVanKriekingen1337/spring-petclinic-angular.git
 ````
 Install local project package
 ````
